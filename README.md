@@ -1,7 +1,8 @@
-# Laserscanning Modelling and Interpretation (Prof. Dr.-Ing. Claus Brenner)
+# Laserscanning Modelling and Interpretation 
+# (Prof. Dr.-Ing. Claus Brenner)
 This is a course I took at Leibniz University and the code is an exercise for my accompanying course.
 
-##Catalog
+## Catalog
 1.	Aerial Laserscanning
 2.	Scanning, scan geometries, low-, intermediate- and high level tasks
 3.	Rotations
